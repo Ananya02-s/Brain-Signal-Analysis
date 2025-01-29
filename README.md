@@ -42,6 +42,6 @@ The system could enhance focus tracking in educational settings, improve cogniti
 
 Contributors
 
-Tanmay Talreja
 Ananya Sinha
+Tanmay Talreja
 Subhojeet Roy
